@@ -11,12 +11,12 @@ Screenshot of the demo app
 
 ### Clone the repository
 ```bash
-$ git clone 
+$ git clone https://github.com/christiannwamba/nest-pusher-chat
 ```
 
 ### Change directory
 ```bash
-$ cd 
+$ cd nest-pusher-chat
 ```
 
 ### Install dependencies
